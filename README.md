@@ -1,3 +1,5 @@
+[![Follow Me](https://img.shields.io/github/followers/piyushyadav0021?style=social)](https://github.com/piyushyadav0021)
+
 # NumPy Practice Notebook
 
 This repository contains my personal practice of NumPy, one of the core libraries for numerical computing in Python. The notebook covers:
